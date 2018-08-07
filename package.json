@@ -1,0 +1,11 @@
+{
+  "name": "entry-server",
+  "version": "1.0.0",
+  "description": "This Package is made for temporary server on creating dummy project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ryai",
+  "license": "ISC"
+}
