@@ -15,10 +15,10 @@ The following instruction is applied only for this project.
 If you have any question about the documentation please check this link [here](https://expressjs.com/).
 
 ### Deployment
-Download this project to your local machine / Desktop.
+[Download](https://github.com/private-ryan23/Entry-Temporary-Server---ExpressJS/archive/master.zip) this project to your local machine / Desktop.
 
 The default port setting is set to localhost:3000
 
-- Open your terminal.
+- Open your terminal on current directory and run `npm init -y`. this will install the current package on your node module.
 - Run this command `npm start`
 - Open browser visit localhost:3000 and bwala your are now running temporary server in port 3000
