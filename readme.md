@@ -19,6 +19,6 @@ If you have any question about the documentation please check this link [here](h
 
 The default port setting is set to localhost:3000
 
-- Open your terminal on current directory and run `npm init -y`. this will install the current package on your node module.
+- Open your terminal on current directory and run `npm install`. this will install the dependencies on your node module.
 - Run this command `npm start`
 - Open browser visit localhost:3000 and bwala your are now running temporary server in port 3000
