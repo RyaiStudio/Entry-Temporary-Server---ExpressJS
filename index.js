@@ -3,7 +3,7 @@ var app = express()
 
 // respond with "hello world" when a GET request is made to the homepage
 app.get('/', function (req, res) {
-  res.send('hello world')
+  res.send('server is running on https')
 })
 
 var port = process.env.PORT || 3000;

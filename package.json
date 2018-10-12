@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "server": "node server.js",
+    "server-https": "node server.js"
   },
   "author": "Ryai",
   "license": "ISC",
